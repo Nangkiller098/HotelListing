@@ -1,0 +1,13 @@
+2023-12-30 18:11:37.463 +07:00 [INF] Now listening on: http://localhost:5039
+2023-12-30 18:11:37.486 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-30 18:11:37.486 +07:00 [INF] Hosting environment: Development
+2023-12-30 18:11:37.486 +07:00 [INF] Content root path: D:\Projects\Exercise\HotelListing\API
+2023-12-30 18:11:43.910 +07:00 [WRN] Failed to determine the https port for redirect.
+2023-12-30 18:12:05.181 +07:00 [INF] Application is shutting down...
+2023-12-30 18:12:57.805 +07:00 [INF] Now listening on: http://localhost:5039
+2023-12-30 18:12:57.829 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-30 18:12:57.830 +07:00 [INF] Hosting environment: Development
+2023-12-30 18:12:57.831 +07:00 [INF] Content root path: D:\Projects\Exercise\HotelListing\API
+2023-12-30 18:13:05.930 +07:00 [WRN] Failed to determine the https port for redirect.
+2023-12-30 18:13:05.948 +07:00 [INF] HTTP GET /WeatherForecast responded 200 in 19.6004 ms
+2023-12-30 18:13:14.469 +07:00 [INF] Application is shutting down...
